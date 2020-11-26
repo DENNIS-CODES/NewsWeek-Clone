@@ -23,11 +23,12 @@ body {
 }
 .btn-subscribe {
     border-radius: 100px;
-    background-color: #ffe400;
+    background-color: Black;
+    color: white;
 }
 .btn-primary:hover {
     text-decoration: none;
-    background-color: #ffe400;
+    background-color: white;
 }
 .true-center {
     width: 237px;
@@ -44,4 +45,7 @@ body {
     background-color: white;
     z-index: 2;
     position: relative;
+}
+#btn-subscribe {
+  color: white;
 }
