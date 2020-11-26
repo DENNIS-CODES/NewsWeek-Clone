@@ -71,3 +71,14 @@ body {
 .fa-user {
     color: rgba(255, 255, 255, .55);
 }
+.card-font {
+    font-size: 14px;
+}
+.underline-red:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.bottom-left {
+    bottom: 0;
+    left: 0;
+}
