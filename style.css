@@ -49,3 +49,22 @@ body {
 #btn-subscribe {
   color: white;
 }
+
+.form-width {
+    width: 20px;
+}
+.upper-tri {
+    border-left: 13px solid transparent;
+    border-right: 13px solid red;
+    border-bottom: 13px solid transparent;
+    height: 0;
+    width: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+}
+.fa-bars {
+    font-size: 28px;
+    color: rgba(255, 255, 255, .55);
+}
