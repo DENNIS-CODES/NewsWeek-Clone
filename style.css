@@ -91,3 +91,22 @@ body {
 .turn-red:hover {
     color: red;
 }
+.corner-background {
+    background-color: rgba(255, 255, 255, .9)
+}
+.text-red {
+    color: red;
+}
+.turn-red:hover {
+    color: red;
+}
+.text-blue {
+    color: #3581f4;
+}
+.small-title {
+    font-size: 13px;
+}
+.small-bottom {
+    font-size: 11px;
+    background-color: #c2d4d7;
+}
