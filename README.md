@@ -1,5 +1,5 @@
 # NewsWeek-Clone
-In this project Twitter’s Bootstrap framework was tried out by building a site that actually uses it – Newsweek.
+In this project i got to try Twitter’s Bootstrap framework by building a site that actually uses it – Newsweek.
 I completed this project as part of the full-stack web development curriculum at theOdinProject, in order to learn and demonstrate my proficiency in the use of Bootstrap 4. The assignment is not to make an exact clone of the website, but to mimic its overall structure. 
 
 ## SCREENSHORT
