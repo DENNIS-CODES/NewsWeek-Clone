@@ -119,3 +119,19 @@ body {
 .article-logo {
     width: 28px;
 }
+.bg-sign-up, .bg-sign-features {
+    background-color: rgba(104, 104, 104, 0.15);
+}
+.bg-sign-features:hover {
+    background-color: rgba(104, 104, 104, 0.4);
+}
+.font-sign {
+    font-size: 16px;
+}
+.btn-sign {
+    width: 100%;
+    background-color: red;
+}
+.bg-issue {
+    background-color: rgba(255, 255, 255, 0.9);
+}
