@@ -178,3 +178,18 @@ body {
 .bla:hover {
     color:black !important;
 }
+.footer-icon {
+    font-size: 24px;
+}
+.footer-icon:hover {
+    color: blue;
+}
+.bla:hover {
+    color:black !important;
+}
+@media only screen and (max-width: 991px) { 
+    .svg {
+            height: 20px;
+            width: 132px;
+    }
+}
