@@ -135,3 +135,23 @@ body {
 .bg-issue {
     background-color: rgba(255, 255, 255, 0.9);
 }
+.font-bigger {
+    font-size: 20px;
+}
+.limit-w {
+    width: 111px;
+}
+.bg-sub {
+    background: url(https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&amp;h=265&amp;q=90&amp;f=742bce9a6f72dd8f19ba2e7fd5db06e5&quot;) center center / cover no-repeat;
+    width: 100%!important;
+    max-width: 191px;
+    z-index: 10;
+}
+.sub-img-l {
+    left: 0;
+}
+.sub-img-r {
+    left: 50px;
+    top: 10px;
+    z-index: 2;
+}
