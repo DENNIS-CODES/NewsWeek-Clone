@@ -169,3 +169,12 @@ body {
 .small-font {
     font-size: 12px;
 }
+.footer-icon {
+    font-size: 24px;
+}
+.footer-icon:hover {
+    color: blue;
+}
+.bla:hover {
+    color:black !important;
+}
