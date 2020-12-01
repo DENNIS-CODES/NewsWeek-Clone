@@ -105,3 +105,17 @@ body {
     font-size: 11px;
     background-color: #c2d4d7;
 }
+.circle-picture {
+    width: 79px;
+}
+.vs-position {
+    left: 50%;
+    margin-left: -12px;
+    top: 50%;
+    margin-top: -14px;
+    border-radius: 50%;
+    z-index: 3;
+}
+.article-logo {
+    width: 28px;
+}
